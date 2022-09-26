@@ -1,0 +1,3 @@
+-Scaricare ed estrarre il file 'LidoGeneration'
+-Avviare il server locale
+-Aprire un browser e inserire l'indirizzo 'Localhost8080/LidoGeneration'
